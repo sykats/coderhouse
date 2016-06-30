@@ -1,0 +1,82 @@
+body {
+	background-color: #ffffff;
+	background-image: url("images/overlay.png"), -moz-linear-gradient(60deg, rgba(63, 81, 181, 0.54) 5%, rgba(156, 39, 176, 0.54)), url("../../images/bg-2.jpeg");
+	background-image: url("images/overlay.png"), -webkit-linear-gradient(60deg, rgba(63, 81, 181, 0.54) 5%, rgba(156, 39, 176, 0.54)), url("../../images/bg-2.jpeg");
+	background-image: url("images/overlay.png"), -ms-linear-gradient(60deg, rgba(63, 81, 181, 0.54) 5%, rgba(156, 39, 176, 0.54)), url("../../images/bg-2.jpeg");
+	background-image: url("images/overlay.png"), linear-gradient(60deg, rgba(63, 81, 181, 0.54) 5%, rgba(156, 39, 176, 0.54)), url("../../images/bg-2.jpeg");
+	animation: anim 15s infinite;
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+@keyframes anim {
+	0% {background-image: url(Images/bg-2.png);}
+	50% {background-image: url(Images/bg-3.png);}
+	100% {background-image: url(Images/bg-4.png);}
+}
+.rectangle {
+	width: 400px;
+	height: 450px;
+	background-color: white;
+	top: 100px;
+	left: calc(50% - 200px);
+	position: absolute;
+	box-shadow: 0px 5px 10px #888888;
+	animation: fromLeft 4s;
+	animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+
+}
+@keyframes fromLeft {
+	from {left: 0px;}
+    to {left: calc(50% - 200px);}
+}
+.name {
+	font-family: sans-serif;
+	color: grey;
+	text-align: center;
+	position: relative;
+	top: 150px;
+	font-weight: 100;
+
+}
+.profile-photo img {
+	height: 100px;
+	width: 100px;
+	border-radius: 100%;
+	position: absolute;
+	top: 30px;
+	left: 150px;
+}
+.address
+{
+	text-transform: uppercase;
+	text-align: center;
+	color: grey;
+	position: relative;
+	top: 150px;
+	font-family: sans-serif;
+}
+.icons-inlineblock {
+	display: inline-block;
+	position: relative;
+	left: 180px;
+	top: 250px;
+	font-size: -webkit-xxx-large;
+	margin: -58px;
+	color: rgba(177, 161, 161, 0.45);
+	}
+
+.footer {
+	text-align: center;
+	text-transform: uppercase;
+	position: fixed;
+	bottom: 0px;
+	left: calc(50% - 110px);
+}
+footer p {
+	color: white;
+	font-weight: 300;
+	font-family: sans-serif;
+}
+
+

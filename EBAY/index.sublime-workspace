@@ -1,0 +1,448 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"ou",
+				"outline-style"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"l",
+				"list"
+			],
+			[
+				"T",
+				"Things"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"r",
+				"rock"
+			],
+			[
+				"column",
+				"column-gap"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"font",
+				"font-size-adjust"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"border",
+				"border-left-style"
+			],
+			[
+				"color",
+				"border-color"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"te",
+				"text-shadow"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"top",
+				"margin-top"
+			],
+			[
+				"le",
+				"margin-left"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"s",
+				"src	Attr"
+			],
+			[
+				"col",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jaa",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"tag:",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Katty/Documents/PERSONAL/CODE/CODERHOUSE/EBAY/index.html",
+		"/C/Users/Katty/Documents/PERSONAL/CODE/CODERHOUSE/EBAY/stylesheet.css",
+		"/C/Users/Katty/Documents/PERSONAL/CODE/CODERHOUSE/LANDING 2/Stylesheet.css",
+		"/C/Users/Katty/Documents/PERSONAL/CODE/CODERHOUSE/LANDING 2/Index.html",
+		"/C/Users/Katty/Downloads/animate.css",
+		"/C/Users/Katty/Downloads/animate (1).css",
+		"/C/Users/Katty/Documents/PERSONAL/CODE/CODERHOUSE/LANDING PAGE/Index.html",
+		"/C/Users/Katty/Documents/PERSONAL/CODE/CODERHOUSE/LANDING PAGE/stylesheet.css",
+		"/C/Users/Katty/Downloads/LandingTEST/landings-master/landing-1/style.css",
+		"/C/Users/Katty/Documents/PERSONAL/CODE/KHANACADEMY/stylesheet.css",
+		"/C/Users/Katty/Documents/PERSONAL/CODE/stylesheet.css",
+		"/C/Users/Katty/Desktop/Learning/index.html",
+		"/C/Users/Katty/Documents/PERSONAL/CODE/CODERHOUSE/P1/styles/style.css",
+		"/C/Users/Katty/Documents/PERSONAL/CODE/CODERHOUSE/P1/index.html",
+		"/C/Users/Katty/Downloads/JavaStuff/Written Test - eCommerce.txt",
+		"/C/Users/Katty/Downloads/JavaStuff/TEST",
+		"/C/Users/Katty/Downloads/Written Test - eCommerce.txt",
+		"/C/Users/Katty/Documents/PERSONAL/CODE/CODERHOUSE/P1/style.css",
+		"/C/Users/Katty/Documents/PERSONAL/CODE/Positioning 10 steps/stylesheet.css",
+		"/C/Users/Katty/Documents/PERSONAL/CODE/Objects/script.js",
+		"/C/Users/Katty/Documents/PERSONAL/CODE/Objects/index.html",
+		"/C/Users/Katty/Desktop/CODE/Positioning 10 steps/stylesheet.css",
+		"/C/Users/Katty/Desktop/CODE/Positioning 10 steps/positioning.html",
+		"/F/Backups/Santi/Documents/local.documents/PreOSInstalltion/DATA",
+		"/F/Backups/Santi/Documents/local.documents/OSInstallation/resources/hardware patches Lenovo/DOTconfig",
+		"/C/Users/Katty/Downloads/Santi Tests/Resources/iwlwifi-8000-ucode-25.30.13.0/README.iwlwifi-8000-ucode",
+		"/C/Users/Katty/Downloads/Santi Tests/Resources/iwlwifi-8000-ucode-25.30.13.0/LICENSE.iwlwifi-8000-ucode",
+		"/C/Users/Katty/Downloads/Santi Tests/Resources/iwlwifi-8000-ucode-25.30.13.0/iwlwifi-8000C-13.ucode",
+		"/E/backbaseSolution/style.css",
+		"/E/backbaseSolution/index.html",
+		"/E/backbaseSolution/style.css.css",
+		"/C/Users/Katty/Desktop/Kat/Positioning 10 steps/stylesheet.css",
+		"/C/Users/Katty/Desktop/Kat/Positioning 10 steps/positioning.html",
+		"/C/Users/Katty/Desktop/stylesheet.css",
+		"/C/Users/Katty/Desktop/positioning.html",
+		"/C/Users/Katty/Desktop/Kat/index.html",
+		"/C/Users/Katty/Desktop/Kat/stylesheet.css",
+		"/C/Users/Katty/Desktop/Kat/temp.html",
+		"/C/Users/Katty/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Katty/Desktop/Kat/header/contactme.html",
+		"/C/Users/Katty/Desktop/Kat/header/atitle.html",
+		"/C/Users/Katty/Desktop/Kat/contact.html",
+		"/C/Users/Katty/Desktop/KHANACADEMY/stylesheet.css",
+		"/C/Users/Katty/Desktop/KHANACADEMY/Invite project.html",
+		"/C/Users/Katty/Desktop/index.html",
+		"/C/Users/Katty/Desktop/CODE ACADEMY/index.html",
+		"/C/Users/Katty/Desktop/CODE ACADEMY/final test.html",
+		"/C/Users/Katty/Desktop/Kat/header/followme.html",
+		"/C/Users/Katty/Desktop/Kat/header/music.html",
+		"/C/Users/Katty/Desktop/Kat/cinema.html",
+		"/C/Users/Katty/Desktop/Kat/food.html",
+		"/C/Users/Katty/Desktop/Kat/atitle.html",
+		"/C/Users/Katty/Desktop/Kat/Theater.html",
+		"/C/Users/Katty/Desktop/Kat/music.html",
+		"/C/Users/Katty/Desktop/Kat/kat.html",
+		"/C/Users/Katty/Desktop/CODE ACADEMY/bodyNth/formats.css",
+		"/C/Users/Katty/Desktop/CODE ACADEMY/bodyNth/uno.html",
+		"/C/Users/Katty/Desktop/CODE ACADEMY/bodyNth/index.html",
+		"/C/Users/Katty/Desktop/CODE ACADEMY/bodyNth/Stylesheet.css",
+		"/C/Users/Katty/Desktop/CODE ACADEMY/nth/index.html",
+		"/C/Users/Katty/Desktop/CODE ACADEMY/nth/Stylesheet.css",
+		"/C/Users/Katty/Desktop/2.html",
+		"/C/Users/Katty/Desktop/Stylesheet.css",
+		"/C/Users/Katty/Desktop/style.css",
+		"/C/Users/Katty/Desktop/tablas.html",
+		"/C/Users/Katty/Desktop/prueba.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"blue",
+			"fadeInLeft",
+			"name",
+			"label",
+			"object3.",
+			" =",
+			"asdfasdfasdf",
+			"nav",
+			"df"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
