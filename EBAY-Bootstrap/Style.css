@@ -1,9 +1,39 @@
-.yellow {
-	background-color: yellow;
-}
+/*.blue {
+	background-color: blue;
+}*/
 .black {
 	background-color: black;
 }
-.item {
-	width: 200px;
+.heart {
+	width: 20px;
+	height: 20px;
+	float: right;
+}
+span {
+	color: green;
+}
+.caption h3 {
+	text-align: center;
+}
+.caption p {
+	text-align: center;
+}
+.btn {
+	margin-top: 20px;
+}
+.top-items {
+	padding-top: 20px;
+}
+.thumbnail {
+	height: 400px;
+}
+.caption {
+	border-top: solid 1px #E6E6FA;
+}
+.banner {
+	padding-bottom: 20px;
+}
+.container-footer {
+	padding-top: 20px;
+	background-color: #E6E6FA;
 }

@@ -7,78 +7,187 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 </head>
 <body>
-<div class="container-fluid">
- 	<div class="row">
- 		<div class="col-md-2 yellow">
- 			<img class="center-block logo" src="Images/logo.png">
- 		</div>
- 		<div class="col-md-6 yellow">
- 		<form>
- 			<div class="form-group">
-    		<input type="text" class="form-control">
-  			</div>
- 		</form>
- 		</div>
- 		<div class="col-md-1 col-md-offset-2 yellow">
- 			<img class="center-block cart" src="Images/ic_shopping_cart.png"></div>
- 		<div class="col-md-1 yellow">
- 			<img class="center-block avatar" src="Images/avatar.png">
- 		</div>
- 	</div>
+<div class="container">
+<!-- Nav Bar -->
+
+<nav class="navbar navbar-default">
+	<div class="container-fluid blue">
+
+	<div class="navbar-header blue">
+		<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse1" aria-expanded="false">
+			<span class="sr-only"></span>
+
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+		</button>
+		<ul class="list-inline">
+			<li><a class="pull-left" href="#"><img src="Images/logo.png"></a></li>
+			<li><input type="search" name="search" placeholder="Search..."></li>
+			<li><img src="Images/ic_shopping_cart.png"></li>
+            <li><img src="Images/avatar.png"></li>
+            </ul>
+
+	</div>
+	</div>
+</nav>
 </div>
-<div class="container-fluid">
+<!-- Banner -->
+
+<div class="container">
 	<div class="row">
-		<div class="col-md-10 col-md-offset-1 black">
-			<img class="center-block" src="Images/banner.png">
+		<div class="col-md-12">
+			<img class="center-block img-responsive banner" src="Images/banner.png">
+		</div>
+	</div>
+
+<!-- Selects -->
+
+	<div class="row">
+		<form>
+	        <div class="col-md-3 col-sm-3">
+	            <select class="form-control input-lg">
+	                <option>Fabric</option>
+	                <option>Cotton</option>
+	                <option>Lycra</option>
+	            </select>
+	        </div>
+	        <div class="col-md-3 col-sm-3">
+	            <select class="form-control input-lg">
+	                <option>Price</option>
+	                <option>Sale</option>
+	                <option>Regular</option>
+	            </select>
+	        </div>
+	        <div class="col-md-3 col-sm-3">
+		        <select class="form-control input-lg">
+		            <option>Brand</option>
+		            <option>Hering</option>
+		            <option>Levis</option>
+		        </select>
+	        </div>
+	        <div class="col-md-1 col-sm-1">
+	            <select class="form-control input-lg">
+	                <option>Size</option>
+	                <option>1</option>
+	                <option>2</option>
+	            </select>
+	        </div>
+	        <div class="col-md-2 col-sm-2">
+		        <select class="form-control input-lg">
+		            <option>Color</option>
+		            <option>Blue</option>
+		            <option>Black</option>
+		        </select>
+	        </div>
+	    </form>
+	</div>
+</div>
+
+
+
+
+<!-- Remeras -->
+
+<div class="container">
+<div class="row">
+
+	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 top-items">
+		<div class="thumbnail">
+		<img src="Images/remera3.png" class="img-responsive">
+		<div class="caption">
+			<h3>Beauty Black <span>$100</span></h3>
+			<p>Black T-shirt<img class="heart" src="Images/corazon.png"></p>
+		</div>
+		</div>
+	</div>
+
+	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 top-items">
+		<div class="thumbnail">
+		<img src="Images/remera4.png" class="img-responsive">
+		<div class="caption">
+			<h3>Beauty White <span>$200</span></h3>
+			<p>White T-shirt<img class="heart" src="Images/corazon.png"></p>
+		</div>
+		</div>
+	</div>
+
+	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 top-items">
+		<div class="thumbnail">
+		<img src="Images/remera3.png" class="img-responsive">
+		<div class="caption">
+			<h3>Beauty Black <span>$100</span></h3>
+			<p>Black T-shirt<img class="heart" src="Images/corazon.png"></p>
+		</div>
+		</div>
+	</div>
+
+	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 top-items">
+		<div class="thumbnail">
+		<img src="Images/remera4.png" class="img-responsive">
+		<div class="caption">
+			<h3>Beauty White <span>$200</span></h3>
+			<p>White T-shirt<img class="heart" src="Images/corazon.png"></p>
+		</div>
+		</div>
+	</div>
+
+</div>
+
+<!-- Second raw remeras -->
+
+<div class="row">
+
+	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+		<div class="thumbnail">
+		<img src="Images/remera5.jpg">
+		<div class="caption">
+			<h3>Sport <span>$200</span></h3>
+			<p>Sport T-shirt<img class="heart" src="Images/corazon.png"></p>
+		</div>
+		</div>
+	</div>
+
+	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+		<div class="thumbnail">
+		<img src="Images/remera6.jpg">
+		<div class="caption">
+			<h3>Girl Star Wars <span>$300</span></h3>
+			<p>Casual T-shirt for woman<img class="heart" src="Images/corazon.png"></p>
+		</div>
+		</div>
+	</div>
+
+	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+		<div class="thumbnail">
+		<img src="Images/remera5.jpg">
+		<div class="caption">
+			<h3>Sport <span>$200</span></h3>
+			<p>Sport T-shirt<img class="heart" src="Images/corazon.png"></p>
+		</div>
+		</div>
+	</div>
+
+	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+		<div class="thumbnail">
+		<img src="Images/remera6.jpg">
+		<div class="caption">
+			<h3>Girl Star Wars <span>$300</span></h3>
+			<p>Casual T-shirt for woman<img class="heart" src="Images/corazon.png"></p>
+		</div>
 		</div>
 	</div>
 </div>
-<select class="form-control">
-	<option>Genero</option>
-	<option>Femenino</option>
-	<option>Masculino</option>
-</select>
-<select class="form-control">
-	<option>Precio</option>
-	<option>Barato</option>
-	<option>Caro</option>
-</select>
-<select class="form-control">
-	<option>Marca</option>
-	<option>Hering</option>
-	<option>Berreta</option>
-</select>
-<select class="form-control">
-	<option>Talle</option>
-	<option>Grande</option>
-	<option>Chico</option>
-</select>
-<select class="form-control">
-	<option>Color</option>
-	<option>Celeste</option>
-	<option>Violeta</option>
-</select>
-<div class="container-fluid">
-	<div class="row">
-	  <!-- <div class="col-md-3">camiseta cel</div> -->
-	  	<img class="col-md-3 img-rounded" src="Images/remera2.png">
-	  <!-- <div class="col-md-3">camiseta vio</div> -->
-	  	<img class="col-md-3 img-rounded" src="Images/remera1.png">
-	  <!-- <div class="col-md-3">camiseta cel</div> -->
-	  	<img class="col-md-3 img-rounded" src="Images/remera2.png">
-	  <!-- <div class="col-md-3">camiseta vio</div> -->
-	  	<img class="col-md-3 img-rounded" src="Images/remera1.png">
+</div>
+
+<!-- Footer -->
+
+<div class="container-footer">
+<div class="row">
+	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
+	<p>Ebay 2016 by Kat (using Bootstrap)</p>
 	</div>
-	<div class="row">
-	  <!-- <div class="col-md-3">camiseta cel</div> -->
-	  	<img class="col-md-3 img-rounded" src="Images/remera2.png">
-	  <!-- <div class="col-md-3">camiseta vio</div> -->
-	  	<img class="col-md-3 img-rounded" src="Images/remera1.png">
-	  <!-- <div class="col-md-3">camiseta cel</div> -->
-	  	<img class="col-md-3 img-rounded" src="Images/remera2.png">
-	  <!-- <div class="col-md-3">camiseta vio</div> -->
-	  	<img class="col-md-3 img-rounded" src="Images/remera1.png">
-	</div>
+</div>
 </div>
 </body>
 </html>
